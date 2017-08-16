@@ -1,6 +1,6 @@
 # Clojure Business Day Calculator
 
-Simple library for end date calculation from start date, plus minutes considering defined work schedule.
+Simple library for end date calculation. Add minutes to start date considering defined work schedule.
 
 # How it works
 
